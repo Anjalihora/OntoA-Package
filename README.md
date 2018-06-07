@@ -1,4 +1,3 @@
-# anjali
+embedding google maps in my website,
+Making use of Google apis
 
-hello world,
-my name is anjali hora and i am working on open source software audacity.
