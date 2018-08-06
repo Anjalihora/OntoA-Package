@@ -1,3 +1,3 @@
-embedding google maps in my website,
-Making use of Google apis
+a package called ontoA for reading the ontology in 
+R and removing the repeated terms in otology
 
